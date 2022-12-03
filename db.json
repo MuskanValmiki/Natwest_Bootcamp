@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "4",
+      "title": "muskan",
+      "author": "akrati"
+    },
+    {
+      "id": "2",
+      "title": "Harry Potter",
+      "author": "mussu"
+    },
+    {
+      "id": "3",
+      "title": "Genius",
+      "author": "Akku"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
